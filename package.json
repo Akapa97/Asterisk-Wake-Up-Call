@@ -22,7 +22,7 @@
         "sass-loader": "^8.0.0"
     },
     "dependencies": {
-        "datatables.net": "^1.10.16",
+        "datatables.net": "^1.10.22",
         "datatables.net-bs4": "^1.10.16",
         "font-awesome": "^4.7.0",
         "moment": "^2.24.0",
